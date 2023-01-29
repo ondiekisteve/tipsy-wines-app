@@ -1,0 +1,5 @@
+@include('admin._partials.header')
+@include('admin._partials.navbar')
+@include('admin._partials.sidebar')
+@include('admin.includes.main')
+@include('admin._partials.footer')
